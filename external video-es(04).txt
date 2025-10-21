@@ -1,0 +1,63 @@
+En este video, cubriremos expresiones y variables.
+Las expresiones describen un tipo de operación que realizan las computadoras.
+Las expresiones son operaciones que realiza Python.
+Por ejemplo, operaciones aritméticas básicas como sumar múltiples números.
+El resultado, en este caso, es 160.
+Llamamos a los números operandos,
+y los símbolos matemáticos, en este caso la suma, se llaman operadores.
+Podemos realizar operaciones como la resta usando el signo de resta.
+En este caso, el resultado es un número negativo.
+Podemos realizar operaciones de multiplicación usando el asterisco.
+El resultado es 25.
+En este caso, los operandos son un número negativo y un asterisco.
+También podemos realizar divisiones con la barra inclinada.
+25 dividido por 5 es 5.
+25 dividido por 6 es aproximadamente 4.167.
+En Python 3, la versión que usaremos en este curso,
+ambos darán como resultado un float.
+Podemos usar la doble barra para la división entera,
+donde el resultado se redondea.
+Ten en cuenta que, en algunos casos, los resultados no son los mismos que en la división regular.
+Python sigue las convenciones matemáticas al realizar expresiones matemáticas.
+Las siguientes operaciones están en un orden diferente.
+En ambos casos, Python realiza la multiplicación,
+luego la suma para obtener el resultado final.
+Hay muchas más operaciones que puedes hacer con Python.
+Consulta los laboratorios para más ejemplos.
+También cubriremos operaciones más complejas a lo largo del curso.
+Las expresiones en los paréntesis se realizan primero.
+Luego multiplicamos el resultado por 60.
+El resultado es 1920.
+Ahora veamos las variables.
+Podemos usar variables para almacenar valores.
+En este caso, asignamos un valor de 1 a la variable my_underscore_variable
+usando el operador de asignación, es decir, el signo igual.
+Luego podemos usar el valor en otra parte del código
+escribiendo el nombre exacto de la variable.
+Usaremos dos puntos para denotar el valor de la variable.
+Podemos asignar un nuevo valor a my_underscore_variable usando el operador de asignación.
+Asignamos un valor de 10.
+La variable ahora tiene un valor de 10.
+El antiguo valor de la variable no es importante.
+Podemos almacenar los resultados de expresiones.
+Por ejemplo, sumamos varios valores y asignamos el resultado a x.
+x ahora almacena el resultado.
+También podemos realizar operaciones sobre x y guardar el resultado en una nueva variable y.
+y ahora tiene un valor de 2.666.
+También podemos realizar operaciones sobre x y asignar el valor a x.
+La variable x ahora tiene un valor de 2.666.
+Como antes, el viejo valor de x no es importante.
+También podemos usar el comando type en variables.
+Es una buena práctica usar nombres de variables significativos
+para que no tengas que estar al tanto de lo que hace la variable.
+Supongamos que nos gustaría convertir el número de minutos en los ejemplos destacados
+al número de horas en el siguiente conjunto de datos de música.
+Llamamos a la variable que contiene el total de minutos, total_guion_min.
+Es común usar el guion bajo para representar el inicio de una nueva palabra.
+También podrías usar una letra mayúscula.
+Llamamos a la variable que contiene el total de horas, total_guion_hora.
+Podemos obtener el total de horas dividiendo total_guion_min entre 60.
+El resultado es aproximadamente 2.367 horas.
+Si modificamos el valor de la primera variable, el valor de la variable cambiaría.
+Los valores del resultado final cambian en consecuencia,
+pero no tenemos que modificar el resto del código.
